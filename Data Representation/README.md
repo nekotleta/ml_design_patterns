@@ -25,3 +25,9 @@ Min-max and clipping tend to work best for **uniformly distributed data**, and Z
 * _Counting_ - number of occurrences of each vocabulary item (multi-hot encoding if counts are 0 or 1)
 * _Relative frequency_ - _counting_ divided
 
+
+
+
+
+__Pretty links:__
+1. https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
