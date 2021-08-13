@@ -31,3 +31,4 @@ Min-max and clipping tend to work best for **uniformly distributed data**, and Z
 
 __Pretty links:__
 1. https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+2. https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
